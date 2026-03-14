@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Enzo alaniz.png" alt="Banner Enzo Alaniz" width="800" height="200"/>
-</p>
-
 # Hola, Soy Enzo! 👋
 Soy estudiante de UNVIME 👨‍🎓, me encuentro cursando la carrera Programador Universitario en Sistemas.
 ## Estadísticas de Git Hub
