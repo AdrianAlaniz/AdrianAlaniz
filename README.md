@@ -3,7 +3,7 @@
 </p>
 
 # Hola, Soy Enzo! 👋
-Soy estudiante de UNVIME 👨‍🎓, me encuentro cursando la carrera Programador Universitario en Sistemas.
+Soy estudiante de UNVIME 👨‍🎓, actualmente me encuentro cursando la carrera Programador Universitario en Sistemas.
 ## Estadísticas de Git Hub
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdrianAlaniz&theme=dracula&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 
