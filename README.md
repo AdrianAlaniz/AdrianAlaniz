@@ -3,7 +3,7 @@ Soy estudiante de UNVIME 👨‍🎓, me encuentro cursando la carrera Programad
 ## Estadísticas de Git Hub
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdrianAlaniz&theme=dracula&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 
-(![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 
 ## 🔗 Redes
 [![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/__________adrian____________/)
