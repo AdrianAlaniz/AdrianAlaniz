@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="enzo alaniz.png" alt="Banner Enzo Alaniz" width="800"/>
+  <img src="Enzo alaniz.png" alt="Banner Enzo Alaniz" width="800" height="150"/>
 </p>
 
 # Hola, Soy Enzo! 👋
