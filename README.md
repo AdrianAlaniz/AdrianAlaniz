@@ -1,3 +1,4 @@
+enzo alaniz.png
 # Hola, Soy Enzo! 👋
 Soy estudiante de UNVIME 👨‍🎓, me encuentro cursando la carrera Programador Universitario en Sistemas.
 ## Estadísticas de Git Hub
