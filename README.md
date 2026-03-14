@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="enzo alaniz.png" alt="Banner Enzo Alaniz" width="800"/>
+</p>
 
 # Hola, Soy Enzo! 👋
 Soy estudiante de UNVIME 👨‍🎓, me encuentro cursando la carrera Programador Universitario en Sistemas.
